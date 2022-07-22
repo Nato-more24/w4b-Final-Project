@@ -1,0 +1,10 @@
+nav{
+    background-color: blueviolet;
+    height: 100px;
+}
+.nav-item{
+    display:inline-block;
+}
+.right{
+    float: right;
+}
