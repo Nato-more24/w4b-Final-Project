@@ -5,6 +5,45 @@ nav{
 .nav-item{
     display:inline-block;
 }
-.right{
+.right {
     float: right;
+}
+/* .r { */
+    /* float: right;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    background-color: rgb(136, 127, 255);
+}
+.m {
+    float: ;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    background-color: rgb(127, 161, 255);
+}
+.l {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    background-color: rgb(255, 127, 127);
+} */
+.Hero{
+    height: 700px;
+    background-color: blue;
+}
+.rowone{
+    height: 600px;
+    background-color: aqua;
+}
+.m{
+    background-color: red;
+}
+.column{
+    height: 400px;
+    width: 33%;
+    background-color: black;
+    display: inline-block;
+    margin-top: 100px;
 }
