@@ -4,12 +4,7 @@ nav{
     background-color: rgba(0, 0, 0, 0.301);
     height: auto;
 }
-.footer{
-    height: 300px;
-    width: 100%;
-    background-color: rgb(17, 0, 255);
 
-}
 .nav-item{
     display:inline-block;
 }
@@ -79,4 +74,13 @@ height: 100%;
 .rowtwo{
     height: 400px;
     background-color: rgb(67, 0, 145);
+}
+.footer{
+    height: 100px;
+    background-color: rgb(196, 123, 255);
+}
+.fa-brands{
+    display: inline-block;
+    float: right;
+    font-size: 27pt;
 }
